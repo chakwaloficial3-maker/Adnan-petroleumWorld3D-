@@ -1,0 +1,6 @@
+{
+  "name": "PetroleumWorld3D",
+  "description": "Complete bilingual (English & Urdu) Oil & Gas Encyclopedia with interactive OpenGL 3D machinery models, engineering calculators, learning center, and HSE safety hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
